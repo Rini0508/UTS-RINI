@@ -1,16 +1,10 @@
-# uts_mobile
 
-A new Flutter project.
+![Image](https://github.com/user-attachments/assets/12eda601-f4cb-4bc8-bcc7-d333b4f3b87c)
 
-## Getting Started
+![Image](https://github.com/user-attachments/assets/45693031-fa4a-4966-a320-3773c73fb115)
 
-This project is a starting point for a Flutter application.
+![Image](https://github.com/user-attachments/assets/faa24ad6-43f0-49c2-81c6-a4b1a4ac4fcf)
 
-A few resources to get you started if this is your first Flutter project:
+![Image](https://github.com/user-attachments/assets/4b63e0f5-b05c-40d7-913a-81c8dae14a88)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/2f338409-e781-4d57-abec-d4d4f5fcc6f1)
